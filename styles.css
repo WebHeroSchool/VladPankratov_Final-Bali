@@ -1,6 +1,7 @@
 body {
   margin: 0;
   background: url(img/main-background.png) no-repeat;
+  background-size: cover;
 }
 
 .header {
@@ -14,6 +15,7 @@ body {
 .logo, .menu {
   display: inline-block;
 }
+
 .menu {
   display: flex;
   align-items: center;
@@ -30,6 +32,7 @@ body {
 .menu {
   margin-right: 13px;
 }
+
 .menu__item {
   margin-right: 41px;
   font-size: 22px;
@@ -68,11 +71,13 @@ body {
   color: #F8EEE4;
   font: 98px/130px pt_serifbold, arial, helvetica, sans-serif;
 }
+
 .main__subtitle {
   margin: 0 0 84px 0;
   color: #f8eee4;
   font: 22px/26px MuseoSansCyrl, arial, helvetica, sans-serif;
 }
+
 .main__button {
   font: 22px/26px MuseoSansCyrl, arial, helvetica, sans-serif;
   text-decoration: none;
