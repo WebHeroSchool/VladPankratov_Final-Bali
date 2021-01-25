@@ -193,7 +193,7 @@ body {
   }
 
   .logo {
-    background: url("img/logo 375.svg") no-repeat;
+    background: url("img/logo-375.svg") no-repeat;
     margin-top: 20px;
   }
 }
@@ -352,7 +352,7 @@ body {
   }
 
   .logo {
-    background: url("img/logo 375.svg") no-repeat;
+    background: url("img/logo-375.svg") no-repeat;
     margin-left: 11%;
     margin-top: 0;
   }
